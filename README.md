@@ -1,6 +1,5 @@
 # C# console app
-<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/assets/ea7b4bee4281861c88c1ef84b0a6e3106670283a/board.png" align="center">
-<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/assets/ea7b4bee4281861c88c1ef84b0a6e3106670283a/rate5.png" align="center">
+<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/main/assets/board.png" align="center">
 
 Решения заданий на C# (Consle application/)
 ### Задание 1.0 (Знакомство с многопоточной обработкой)
@@ -29,3 +28,5 @@ o	сигнальные сообщения (ManualResetEvent, AutoResetEvent, Man
 o	семафоры (Semaphore, SemaphoreSlim) [lab3.3 file]
 o	атомарные операторы (Interlocked) [lab3.4 file]
 
+# Оцени репозиторий если помог решить задачи!
+<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/main/assets/rate5.gif" align="center">
