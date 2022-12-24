@@ -29,7 +29,6 @@ o	семафоры (Semaphore, SemaphoreSlim) [lab3.3 file]
 o	атомарные операторы (Interlocked) [lab3.4 file]
 
 # Оцени репозиторий если помог решить задачи!
-  
 <a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/main/assets/rate5.gif" align="center"></a>
   
 
