@@ -1,0 +1,15 @@
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\bin\Debug\net6.0\lab1-khasanov.exe
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\bin\Debug\net6.0\lab1-khasanov.deps.json
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\bin\Debug\net6.0\lab1-khasanov.runtimeconfig.json
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\bin\Debug\net6.0\lab1-khasanov.dll
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\bin\Debug\net6.0\lab1-khasanov.pdb
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.csproj.AssemblyReference.cache
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.AssemblyInfoInputs.cache
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.AssemblyInfo.cs
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.dll
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\refint\lab1-khasanov.dll
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.pdb
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\lab1-khasanov.genruntimeconfig.cache
+C:\Users\Coder\source\repos\lab1-khasanov\lab1-khasanov\obj\Debug\net6.0\ref\lab1-khasanov.dll
