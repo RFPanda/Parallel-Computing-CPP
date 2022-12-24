@@ -1,5 +1,6 @@
 # C# console app
-Решения заданий на C# (Consle application/windows forms/WPF) и С++
+https://github.com/RFPanda/Parallel-Computing-CPP/blob/ea7b4bee4281861c88c1ef84b0a6e3106670283a/board.png
+Решения заданий на C# (Consle application/)
 ### Задание 1.0 (Знакомство с многопоточной обработкой)
 1. Реализуйте последовательную обработку элементов вектора, например,
 умножение элементов вектора на число. Число элементов вектора задается
