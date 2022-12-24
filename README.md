@@ -1,5 +1,6 @@
 # C# console app
-https://github.com/RFPanda/Parallel-Computing-CPP/blob/ea7b4bee4281861c88c1ef84b0a6e3106670283a/board.png
+<a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/ea7b4bee4281861c88c1ef84b0a6e3106670283a/board.png" align="center">
+
 Решения заданий на C# (Consle application/)
 ### Задание 1.0 (Знакомство с многопоточной обработкой)
 1. Реализуйте последовательную обработку элементов вектора, например,
