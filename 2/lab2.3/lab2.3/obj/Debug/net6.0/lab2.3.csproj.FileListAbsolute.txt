@@ -1,0 +1,15 @@
+C:\Users\Coder\source\repos\lab2.3\lab2.3\bin\Debug\net6.0\lab2.3.exe
+C:\Users\Coder\source\repos\lab2.3\lab2.3\bin\Debug\net6.0\lab2.3.deps.json
+C:\Users\Coder\source\repos\lab2.3\lab2.3\bin\Debug\net6.0\lab2.3.runtimeconfig.json
+C:\Users\Coder\source\repos\lab2.3\lab2.3\bin\Debug\net6.0\lab2.3.dll
+C:\Users\Coder\source\repos\lab2.3\lab2.3\bin\Debug\net6.0\lab2.3.pdb
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.csproj.AssemblyReference.cache
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.AssemblyInfoInputs.cache
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.AssemblyInfo.cs
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.csproj.CoreCompileInputs.cache
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.dll
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\refint\lab2.3.dll
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.pdb
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\lab2.3.genruntimeconfig.cache
+C:\Users\Coder\source\repos\lab2.3\lab2.3\obj\Debug\net6.0\ref\lab2.3.dll
