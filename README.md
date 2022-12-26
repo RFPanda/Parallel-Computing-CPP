@@ -1,7 +1,7 @@
 # C# console app
 <a href="https://rfpanda.ml"> <img src="https://github.com/RFPanda/Parallel-Computing-CPP/blob/main/assets/board.png" align="center">
 
-Решения заданий на C# (Consle application/)
+Решения заданий на C# (Consle application)
 ### Задание 1.0 (Знакомство с многопоточной обработкой)
 1. Реализуйте последовательную обработку элементов вектора, например,
 умножение элементов вектора на число. Число элементов вектора задается
